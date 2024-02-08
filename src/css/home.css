@@ -1,0 +1,21 @@
+.card{
+    background-color: rgb(211, 211, 211);
+    /* min-height:100px; */
+    margin: 15px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.title{
+    padding: 0px;
+    line-height:100%;
+    margin: 0px;
+    font-weight: bold;
+    
+}
+
+.refreshButton{
+    position: absolute;
+right:    15px;
+bottom:   15px;
+}
